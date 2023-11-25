@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/mateusaragao/sparklistener/target/scala-2.12/sparklistener_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusaragao/sparklistener/target/scala-2.12/classes/MyData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MySparkListener.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusaragao/sparklistener/target/scala-2.12/classes/MySparkListener.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mateusaragao/sparklistener/target/scala-2.12/classes/MyData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

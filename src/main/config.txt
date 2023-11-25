@@ -1,0 +1,6 @@
+spark-submit \
+--conf "spark.extraListeners=MySparkListener" \
+--conf "spark.druidLocation=localhost" \
+--class Main \
+--jars /Users/mateusaragao/sparklistener/target/scala-2.12/sparklistener_2.12-0.1.0.jar \
+/Users/mateusaragao/running_spark/target/scala-2.12/spark_etl_2.12-0.1.0.jar
